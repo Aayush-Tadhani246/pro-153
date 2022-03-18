@@ -1,2 +1,2 @@
 # PRO-C153
-Scuba Diving Simulation
+use WASD or ARROW KEYS
